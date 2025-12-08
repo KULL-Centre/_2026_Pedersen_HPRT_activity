@@ -6,7 +6,7 @@ Scripts and output from "Massively parallel functional assessment of HGPRT varia
 Contents
 --------
 * **illumina**: Scripts for calculating the abundance
-* **vamp**: Scripts and output for processing sequencing reads from the VAMP-seq
+* **score**: Scripts and output for making MAVE scores
 * **plots**: 
 
 The final scores are also deposited at [MAVEDB](https://www.mavedb.org/) under URN mavedb:000...
