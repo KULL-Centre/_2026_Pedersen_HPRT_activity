@@ -14,3 +14,11 @@ The final scores are also deposited at [MAVEDB](https://www.mavedb.org/) under U
 Illumina sequencing reads are available at [ERDA](https://sid.erda.dk/sharelink/hJLtdDBqb9)  (later https://doi.org/10.17894/ucph....)
 
 FASTQ files are also deposited at [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) under BioProject ID: PRJNA1277552
+
+Data Visualization
+------------------
+
+The file hprt_viz.ipynb is made to run as a webservice at Google colab available at
+https://colab.research.google.com/github/KULL-Centre/_2026_Pedersen_HPRT_activity/blob/main/plots/hprt_vizb.ipynb
+
+This requires a login for Googles services, e.g. a gmail.
