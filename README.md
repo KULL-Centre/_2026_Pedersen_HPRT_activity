@@ -18,7 +18,7 @@ FASTQ files are also deposited at [NCBI SRA](https://www.ncbi.nlm.nih.gov/sra) u
 Data Visualization
 ------------------
 
-The file hprt_viz.ipynb is made to run as a webservice at Google colab available at
-https://colab.research.google.com/github/KULL-Centre/_2026_Pedersen_HPRT_activity/blob/main/plots/hprt_vizb.ipynb
+The file plots/hprt_viz.ipynb is made to run as a webservice at Google colab available at
+https://colab.research.google.com/github/KULL-Centre/_2026_Pedersen_HPRT_activity/blob/main/plots/hprt_viz.ipynb
 
 This requires a login for Googles services, e.g. a gmail.
